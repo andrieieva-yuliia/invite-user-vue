@@ -1,5 +1,5 @@
 # invite-user
-This is a mini single-page application (SPA) designed for customizing platform users. When the "Invite User" button is clicked, the application displays all the data in the browser console as if it were sending a request to the server. The application also features a mobile layout for optimal user experience.
+A mini single-page application (SPA) designed for customizing platform users. When the "Invite User" button is clicked, the application displays all the data in the browser console as if it were sending a request to the server. The application also features a mobile layout for optimal user experience.
 
 [LINK](https://invite-user-vue.vercel.app/)
 
